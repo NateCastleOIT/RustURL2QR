@@ -1,0 +1,14 @@
+D:\Desktop - Storage\Homework\CST 223\URL2QR\RustURL2QR\url2qr\target\debug\deps\csv-92ff6449c373be47.rmeta: C:\Users\Natec\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.6\src\lib.rs C:\Users\Natec\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.6\src\byte_record.rs C:\Users\Natec\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.6\src\cookbook.rs C:\Users\Natec\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.6\src\deserializer.rs C:\Users\Natec\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.6\src\error.rs C:\Users\Natec\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.6\src\reader.rs C:\Users\Natec\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.6\src\serializer.rs C:\Users\Natec\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.6\src\string_record.rs C:\Users\Natec\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.6\src\tutorial.rs C:\Users\Natec\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.6\src\writer.rs
+
+D:\Desktop - Storage\Homework\CST 223\URL2QR\RustURL2QR\url2qr\target\debug\deps\csv-92ff6449c373be47.d: C:\Users\Natec\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.6\src\lib.rs C:\Users\Natec\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.6\src\byte_record.rs C:\Users\Natec\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.6\src\cookbook.rs C:\Users\Natec\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.6\src\deserializer.rs C:\Users\Natec\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.6\src\error.rs C:\Users\Natec\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.6\src\reader.rs C:\Users\Natec\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.6\src\serializer.rs C:\Users\Natec\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.6\src\string_record.rs C:\Users\Natec\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.6\src\tutorial.rs C:\Users\Natec\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.6\src\writer.rs
+
+C:\Users\Natec\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.6\src\lib.rs:
+C:\Users\Natec\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.6\src\byte_record.rs:
+C:\Users\Natec\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.6\src\cookbook.rs:
+C:\Users\Natec\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.6\src\deserializer.rs:
+C:\Users\Natec\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.6\src\error.rs:
+C:\Users\Natec\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.6\src\reader.rs:
+C:\Users\Natec\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.6\src\serializer.rs:
+C:\Users\Natec\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.6\src\string_record.rs:
+C:\Users\Natec\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.6\src\tutorial.rs:
+C:\Users\Natec\.cargo\registry\src\github.com-1ecc6299db9ec823\csv-1.1.6\src\writer.rs:

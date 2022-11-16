@@ -1,0 +1,5 @@
+D:\Desktop - Storage\Homework\CST 223\URL2QR\RustURL2QR\url2qr\target\debug\deps\itoa-746c8289fc0b4f13.rmeta: C:\Users\Natec\.cargo\registry\src\github.com-1ecc6299db9ec823\itoa-0.4.8\src\lib.rs
+
+D:\Desktop - Storage\Homework\CST 223\URL2QR\RustURL2QR\url2qr\target\debug\deps\itoa-746c8289fc0b4f13.d: C:\Users\Natec\.cargo\registry\src\github.com-1ecc6299db9ec823\itoa-0.4.8\src\lib.rs
+
+C:\Users\Natec\.cargo\registry\src\github.com-1ecc6299db9ec823\itoa-0.4.8\src\lib.rs:
